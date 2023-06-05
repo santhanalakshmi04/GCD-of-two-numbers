@@ -34,7 +34,8 @@ def gcd():
 ```
 
 ## Output:
-![gcd of two number](gcd.png)
+![image](https://github.com/santhanalakshmi04/GCD-of-two-numbers/assets/119475762/0144aa1b-1e68-4cfd-9a1d-8ae29927785e)
+
 
 
 ## Result:
